@@ -2,6 +2,11 @@
 
 **Automate the detection and cleanup of unused disks in Google Cloud Platform (GCP).**
 
+https://github.com/k0wl0n/unused-disk-checker-gcp/blob/main/image/disk-check.png?raw=true
+
+![Flowchart](https://raw.githubusercontent.com/k0wl0n/unused-disk-checker-gcp/refs/heads/main/image/disk-check.png)
+
+
 ---
 
 ## Table of Contents
