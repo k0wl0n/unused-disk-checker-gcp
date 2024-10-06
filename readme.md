@@ -2,7 +2,6 @@
 
 **Automate the detection and cleanup of unused disks in Google Cloud Platform (GCP).**
 
-https://github.com/k0wl0n/unused-disk-checker-gcp/blob/main/image/disk-check.png?raw=true
 
 ![Flowchart](https://raw.githubusercontent.com/k0wl0n/unused-disk-checker-gcp/refs/heads/main/image/disk-check.png)
 
@@ -19,7 +18,7 @@ https://github.com/k0wl0n/unused-disk-checker-gcp/blob/main/image/disk-check.png
   - [Environment Variables](#environment-variables)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
-  - [Running the Unused Disk Checker](#running-the-unused-disk-checker)
+  - [Running the Unused Disk Checker](#running-the-unused-disk-checker-gcp)
   - [Review and Execute Deletion Script](#review-and-execute-deletion-script)
 - [Scripts Overview](#scripts-overview)
 - [Flowchart](#flowchart)
@@ -81,8 +80,8 @@ Set the following environment variables before running the scripts:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/unused-disk-checker.git
-   cd unused-disk-checker
+   git clone https://github.com/your-repo/unused-disk-checker-gcp.git
+   cd unused-disk-checker-gcp
    ```
 
 2. **Set Up Environment Variables**
